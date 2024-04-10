@@ -84,11 +84,11 @@ ul {
 /* Another useless comment */
 
 a {
-    color: rgb(96, 151, 255);
+    color: rgb(83, 127, 207);
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: rgb(24, 124, 255);
+    color: rgb(12, 117, 255);
 }
