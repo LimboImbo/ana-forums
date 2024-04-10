@@ -56,7 +56,6 @@ h2 {
   
 body{
     width:50%;
-    height:113vh;
     margin: 0 auto;
     background: linear-gradient(50deg, rgba(34,159,195,1) 0%, rgba(76,45,253,1) 100%); 
 }
@@ -83,3 +82,13 @@ ul {
     justify-content: space-between;
 }
 /* Another useless comment */
+
+a {
+    color: rgb(96, 151, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(24, 124, 255);
+}
