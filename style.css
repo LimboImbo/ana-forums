@@ -8,6 +8,7 @@
 }
 
 .start_box {
+    margin-bottom: 0.5cm;
     border: 5px solid  rgb(0, 0, 0);
     background: linear-gradient(223deg, rgb(180, 255, 186) 0%, rgb(0, 158, 66) 100%); 
 }
@@ -91,4 +92,8 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(12, 117, 255);
+}
+
+c {
+    color: rgb(71, 123, 236)
 }
